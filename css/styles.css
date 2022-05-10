@@ -1,0 +1,55 @@
+html,
+body {
+  margin: 0px;
+  padding: 0px;
+  font-size: 0;
+}
+
+body {
+  background-color: #0b2027;
+}
+
+.navigation {
+  background-color: #2b2b2b;
+  color: lightskyblue;
+  height: 50px;
+}
+
+.navigation ul {
+  margin-top: 0px;
+  list-style: none;
+  padding-left: 0px;
+  text-align: right;
+  height: 50px;
+}
+
+.navigation li {
+  display: inline-block;
+  padding-left: 30px;
+  padding-right: 30px;
+  line-height: 50px;
+}
+
+.capa {
+  color: lightskyblue;
+}
+
+.capa span {
+  color: white;
+}
+
+.capa div {
+  display: inline-block;
+  height: 60px;
+}
+
+.profile-pic {
+  background-color: white;
+  width: 40%;
+}
+
+.profile-title {
+  background-color: white;
+  vertical-align: top;
+  width: 60%;
+}
